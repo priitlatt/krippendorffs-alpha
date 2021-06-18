@@ -1,7 +1,7 @@
 # Computing Krippendorff 's Alpha-Reliability
 
 This module follows the instructions in the paper
-Krippendorff, K. (2011). Computing Krippendorff's Alpha-Reliability. Retrieved from http://repository.upenn.edu/asc_papers/43
+[Krippendorff, K. (2011). Computing Krippendorff's Alpha-Reliability](http://repository.upenn.edu/asc_papers/43)
 to compute reliability coefficient Krippendorff’s alpha on a dataset with
 - nominal data, 
 - any number of observers, 
